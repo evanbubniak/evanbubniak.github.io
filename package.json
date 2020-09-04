@@ -1,0 +1,29 @@
+{
+  "name": "evanbubniak.github.io",
+  "version": "1.0.0",
+  "description": "hello world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build && gh-pages -d public master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanbubniak/evanbubniak.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanbubniak/evanbubniak.github.io/issues"
+  },
+  "homepage": "https://github.com/evanbubniak/evanbubniak.github.io#readme",
+  "dependencies": {
+    "gatsby": "^2.24.53",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
