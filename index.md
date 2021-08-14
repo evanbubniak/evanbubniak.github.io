@@ -1,3 +1,5 @@
 ---
-title: Homepage
+layout: home
+title: Home
 ---
+

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How I study foreign languages
 category: languages
 date: 2021-08-13
