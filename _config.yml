@@ -1,9 +1,16 @@
-title: Evan Bubniak
-# author: Evan Bubniak
-description: Software/Languages
+title: Bubsy's Blog
+author: Evan Bubniak
+description: Thoughts on software and natural language.
 url: https://evanbubniak.github.io
 theme: minima
+plugins:
+  - jekyll-feed
 
 github_username: evanbubniak
 
 show_excerpts: True
+excerpt_separator: <!--more-->
+
+exclude:
+  Gemfile
+  *.sh
