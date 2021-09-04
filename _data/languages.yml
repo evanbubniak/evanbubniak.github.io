@@ -2,3 +2,5 @@ en:
   label: English
 zh-yue:
   label: Cantonese
+zh-hans:
+  label: Chinese (Simplified)
