@@ -3,7 +3,7 @@ layout: post
 title: How I use Anki to learn languages
 category: languages
 date: 2021-08-14
-published: true
+published: false
 ---
 
 ## Why I use Anki
