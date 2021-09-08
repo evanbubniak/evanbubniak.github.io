@@ -20,7 +20,7 @@ Je ne peux également pas prétendre ni que ma méthode soit la meilleure, ni qu
 
 L'essentiel est le suivant, quelque soit la langue:
 
-- Dès le départ, apprendre le grammaire et le vocabulaire vigoureusement. Plus tôt on lit des phrases entières, tant mieux. Le but de ce stade est d'accelérer aussi tôt que possible à un niveau où l'on peut interagir et comprendre les contenus qui s'orientent vers les locuteurs natifs.
+- Dès le départ, apprendre lq grammaire et le vocabulaire vigoureusement. Plus tôt on lit des phrases entières, tant mieux. Le but de ce stade est d'accelérer aussi tôt que possible à un niveau où l'on peut interagir et comprendre les contenus qui s'orientent vers les locuteurs natifs.
 - Chercher à comprendre l'intégralité des phrases que l'on lit, et à s'exprimer au plus haut niveau d'articulation possible. Quand on pratique avec des autres, essayer de nouvelles façons de s'exprimer, en courant avec le plaisir le risque de commettre des erreurs et en faisant attention aux corrections de l'interlocuteur.
 - Construire une collection polyvalente de médias dans la langue cible qui correspondent à vos intérêts personelles. Pour moi, par exemple, ça veut dire des podcast, des émissions de l'actu, des livestreams, de la musique, des JV, des bandes dessinées, et avant tout des amis avec qui parler.
 
@@ -68,7 +68,7 @@ Comme je n'ai toujours pas trouvé de subreddit dans lequel l'on écrit en canto
 
 Je ne poste pas fréquemment sur ces subreddits, mais je lis les articles et commentaires à fond, parce que ces subreddits constituent un flux de contenu dans la langue cible; la plupart des articles sont écrits en langage soutenu, alors que les commentaires prennent normalement un ton plus familier. Il s'agit normalement aussi de sujets intéressants.
 
-Au cours de ma lecture, je recherche attentivement et enregistre des notes sur les mots inconnus et les points de grammaire que je connais pas. Pendant ce temps, je consulte des ressources qui expliquent le grammaire; par exemple, j'ai utilisé le [wiki de grammaire allsetlearning](https://resources.allsetlearning.com/chinese/grammar/) pour le grammaire chinois, et [Imabi](https://www.imabi.net/) pour le japonais. Quelques langues peuvent contenir des nuances qui rendent leurs grammaires plus faciles ou plus difficiles; trouver la bonne lecture d'un kanji japonais peut parfois causer de vrais ennuis. Pour ceux qui veulent apprendre le chinois ou le japonais, je conseille l'usage de [zhongwen](https://github.com/cschiller/zhongwen) pour le chinois et [rikaikun](https://github.com/melink14/rikaikun) pour le japonais.
+Au cours de ma lecture, je recherche attentivement et enregistre des notes sur les mots inconnus et les points de grammaire que je connais pas. Pendant ce temps, je consulte des ressources qui expliquent la grammaire; par exemple, j'ai utilisé le [wiki de grammaire allsetlearning](https://resources.allsetlearning.com/chinese/grammar/) pour la grammaire chinois, et [Imabi](https://www.imabi.net/) pour le japonais. Quelques langues peuvent contenir des nuances qui rendent leurs grammaires plus faciles ou plus difficiles; trouver la bonne lecture d'un kanji japonais peut parfois causer de vrais ennuis. Pour ceux qui veulent apprendre le chinois ou le japonais, je conseille l'usage de [zhongwen](https://github.com/cschiller/zhongwen) pour le chinois et [rikaikun](https://github.com/melink14/rikaikun) pour le japonais.
 
 #### Tandem
 
