@@ -1,6 +1,12 @@
 en:
   label: English
+  other-languages-text: This text is also available in
 zh-yue:
   label: Cantonese
+  other-languages-text: 呢篇文章有啲其他語言嘅版本
 zh-hans:
   label: Chinese (Simplified)
+  other-languages-text: 这篇文章还有下述语言的版本
+fr:
+  label: French
+  other-languages-text: Cette page est aussi disponible en
