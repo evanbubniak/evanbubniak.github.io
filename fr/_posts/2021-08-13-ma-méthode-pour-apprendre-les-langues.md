@@ -8,9 +8,9 @@ date: 2021-08-13
 published: true
 ---
 
-J'apprends les langues naturelles avec passion; à compter du mois d'août en 2021, j'ai appris le français et l'allemand pendant six ans et demi; l'espagnol pendant six ans; le chinois mandarin pendant quatre ans; l'italien pendant deux ans; le chinois cantonais et le japonais pendant un an et demi; et le danois et le polonais depuis un mois et demi. Je mantiens activement mon niveau dans toutes ces langues et cherche habituellement à élargir mes vocabulaires actifs et passifs pour elles.
+J'apprends beaucoup de langues naturelles; à compter du mois d'août en 2021, j'ai appris le français et l'allemand pendant six ans et demi; l'espagnol pendant six ans; le chinois mandarin pendant quatre ans; l'italien pendant deux ans; le chinois cantonais et le japonais pendant un an et demi; et le danois et le polonais depuis un mois et demi. Je mantiens activement mon niveau dans toutes ces langues et cherche habituellement à élargir mes vocabulaires actifs et passifs pour elles.
 
-C'est une entreprise personelle d'une grande ampleur, qui exige beaucoup de temps, mais ce n'en est pas du tout une stressante, ou une miserable. Loin de cela, la raison pour laquelle je persiste aussi longtemps est que je l'aime du fond de mon cœur. On me demande souvent comment je fais pour apprendre les langues; le but de ce texte est de leur donner une réponse compréhensive.
+C'est une entreprise personelle d'une grande ampleur, qui exige beaucoup de temps, mais ce n'en est pas du tout une stressante, ou une misérable. Loin de cela, la raison pour laquelle je persiste dans cette vocation aussi longtemps est que je l'aime du fond de mon cœur. On me demande souvent comment je fais pour apprendre les langues; le but de ce texte est de leur donner une réponse compréhensive.
 
 <!--more-->
 
