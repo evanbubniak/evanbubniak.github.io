@@ -12,5 +12,4 @@ show_excerpts: True
 excerpt_separator: <!--more-->
 
 exclude:
-  Gemfile
-  *.sh
+  - Gemfile
